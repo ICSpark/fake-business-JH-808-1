@@ -14,12 +14,12 @@ a {
 }
 
 a:hover {
-    background-color: #f1a67e;
+    background-image:;
 }
 
 #logo-container {
     /* Change me! */
-    background-image: url('image-examples/Logo-example.png');
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgold-marble&psig=AOvVaw3sAvQhh30G6W_J1gk7lYe-&ust=1738531304815000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj3v_izo4sDFQAAAAAdAAAAABAE');
     
     /* Centers the image */
     background-position: center center;
@@ -45,7 +45,7 @@ a:hover {
 
     /* Change me! */
     /* If you want to change back: #7D1128 */
-    background-color: #7D1128;
+    background-color: #0f0306;
 }
 
 #header-name {
